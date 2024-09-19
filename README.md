@@ -97,35 +97,4 @@ The following are the major dependencies that have been used in this project:
   cd frontend && npm start
 ```
 
-## Working Demo
 
-[Working Demo](https://www.loom.com/share/3eb9d8bb33d740fc97446964c40df341)
-
-https://user-images.githubusercontent.com/76904393/226411140-7c2fdc7c-adf7-418f-b31e-441d0833a21b.mp4
-
-
-
-## Extended Features
-
-
-### Login Page
-![App Screenshot](https://github.com/shinoj-exe/social-network/blob/master/Screenshots/login.png?raw=true)
-
-### Signup Page
-![App Screenshot](https://github.com/shinoj-exe/social-network/blob/master/Screenshots/signup.png?raw=true)
-
-### Logout Page
-![App Screenshot](https://github.com/shinoj-exe/social-network/blob/master/Screenshots/logout.png?raw=true)
-
-
-### Home Page with Add/Remove Friends
-![App Screenshot](https://github.com/shinoj-exe/social-network/blob/master/Screenshots/homepage.png?raw=true)
-
-### User Search functionality
-![App Screenshot](https://github.com/shinoj-exe/social-network/blob/master/Screenshots/search_functionality.png?raw=true)
-
-### User Profile with Mutual Friends Feature
-![App Screenshot](https://github.com/shinoj-exe/social-network/blob/master/Screenshots/userProfile_mutual.png?raw=true)
-
-### Add posts
-![App Screenshot](https://github.com/shinoj-exe/social-network/blob/master/Screenshots/add_new_posts.png?raw=true)
